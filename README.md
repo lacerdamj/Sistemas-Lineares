@@ -2,6 +2,9 @@
 
 Este repositório contém material suplementar para o curso Sistemas Lineares da Universidade Federal de São João del-Rei.
 
+
+[Plota Sinal](https://github.com/lacerdamj/Sistemas-Lineares/blob/1c6686f7a59764b859532818d5d6b5e9c53614bb/Plotasinal.ipynb)
+
 [Transformação de Sinais - Mudança de escala de tempo](https://github.com/lacerdamj/Sistemas-Lineares/blob/bdf61a927ded606a4ec34d504adb71c2d3c0b871/transfsinalescala.ipynb)
 
 
