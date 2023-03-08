@@ -9,7 +9,7 @@ Este repositório contém material suplementar para o curso Sistemas Lineares da
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=P06QQVG_npI
 " target="_blank"><img src="http://img.youtube.com/vi/v=P06QQVG_npI/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="v=P06QQVG_npI" width="240" height="180" border="10" /></a>
 
 [Transformação de Sinais - Deslocamento no tempo](https://github.com/lacerdamj/Sistemas-Lineares/blob/9bff571254f0b87cdf6ba21df0b0537cbefcb6ef/transfsinaldesloc.ipynb)
 
