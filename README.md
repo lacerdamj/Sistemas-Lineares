@@ -12,3 +12,5 @@ Este repositório contém material suplementar para o curso Sistemas Lineares da
 [Transformação de Sinais - Reversão no tempo](https://github.com/lacerdamj/Sistemas-Lineares/blob/e9e895c5b7a44d2e950c5008ac855d481774e1c3/transfsinalrev.ipynb)
 
 [Transformação Combinada](https://github.com/lacerdamj/Sistemas-Lineares/blob/090052fc28b22d84e72b25fe000b3bdd991bea72/transfsinalcomb.ipynb)
+
+[Princípio da Superposição](https://github.com/lacerdamj/Sistemas-Lineares/blob/06f534f18cf26293f50062e6399795a14ca0a017/Superposicao.ipynb)
