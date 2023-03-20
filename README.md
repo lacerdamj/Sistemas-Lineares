@@ -16,3 +16,5 @@ Este repositório contém material suplementar para o curso Sistemas Lineares da
 [Princípio da Superposição](https://github.com/lacerdamj/Sistemas-Lineares/blob/2d246acaaef65346fffbedbe17c2c9b9c3905d00/Superposicao.ipynb)
 
 [Sistema invariante no tempo](https://github.com/lacerdamj/Sistemas-Lineares/blob/28769456aee20b736444b55d8df02f1602955c83/invariantenotempo.ipynb)
+
+[Representação entrada saída e representação em espaço de estados](https://github.com/lacerdamj/Sistemas-Lineares/blob/a1d1c98778f645fa8a4d971bcc59d5327e2327c6/Representa%C3%A7%C3%A3o.ipynb)
