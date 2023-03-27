@@ -20,3 +20,5 @@ Este repositório contém material suplementar para o curso Sistemas Lineares da
 [Representação entrada saída e representação em espaço de estados](https://github.com/lacerdamj/Sistemas-Lineares/blob/a1d1c98778f645fa8a4d971bcc59d5327e2327c6/Representa%C3%A7%C3%A3o.ipynb)
 
 [Solução de EDO homogênea pelo método dos coeficientes a determinar - Raízes complexas conjugadas](https://github.com/lacerdamj/Sistemas-Lineares/blob/f432a6bfa442ae600c0ca91ea6b546c625cf94bb/ExercicioresolvidoEDO.ipynb)
+
+[Solução de EDO com entrada forçada - Método 1](https://github.com/lacerdamj/Sistemas-Lineares/blob/faa767594777fccba96c361d9a28496dc81bd786/EDOcomentrada.ipynb)
