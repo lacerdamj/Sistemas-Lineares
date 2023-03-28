@@ -9,8 +9,10 @@ Este repositório contém material suplementar para a unidade curricular Sistema
 [(Vídeo no Youtube)](https://youtu.be/P06QQVG_npI)
 
 [Transformação de Sinais - Deslocamento no tempo](https://github.com/lacerdamj/Sistemas-Lineares/blob/9bff571254f0b87cdf6ba21df0b0537cbefcb6ef/transfsinaldesloc.ipynb)
+[(Vídeo no Youtube)](https://youtu.be/P06QQVG_npI)
 
 [Transformação de Sinais - Reversão no tempo](https://github.com/lacerdamj/Sistemas-Lineares/blob/e9e895c5b7a44d2e950c5008ac855d481774e1c3/transfsinalrev.ipynb)
+[(Vídeo no Youtube)](https://youtu.be/8fwmQTnJwXY)
 
 [Transformação Combinada](https://github.com/lacerdamj/Sistemas-Lineares/blob/090052fc28b22d84e72b25fe000b3bdd991bea72/transfsinalcomb.ipynb)
 
