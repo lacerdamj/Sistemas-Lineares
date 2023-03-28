@@ -1,6 +1,6 @@
 # Sistemas-Lineares
 
-Este repositório contém material suplementar para o curso Sistemas Lineares da Universidade Federal de São João del-Rei.
+Este repositório contém material suplementar para a unidade curricular Sistemas Lineares do curso de Engenharia Elétrica da Universidade Federal de São João del-Rei.
 
 
 [Plota Sinal](https://github.com/lacerdamj/Sistemas-Lineares/blob/1c6686f7a59764b859532818d5d6b5e9c53614bb/Plotasinal.ipynb)
