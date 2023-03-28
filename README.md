@@ -6,6 +6,7 @@ Este repositório contém material suplementar para a unidade curricular Sistema
 [Plota Sinal](https://github.com/lacerdamj/Sistemas-Lineares/blob/1c6686f7a59764b859532818d5d6b5e9c53614bb/Plotasinal.ipynb)
 
 [Transformação de Sinais - Escalonamento no tempo](https://github.com/lacerdamj/Sistemas-Lineares/blob/bdf61a927ded606a4ec34d504adb71c2d3c0b871/transfsinalescala.ipynb)
+[(Vídeo no Youtube)](https://youtu.be/P06QQVG_npI)
 
 [Transformação de Sinais - Deslocamento no tempo](https://github.com/lacerdamj/Sistemas-Lineares/blob/9bff571254f0b87cdf6ba21df0b0537cbefcb6ef/transfsinaldesloc.ipynb)
 
