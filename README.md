@@ -25,3 +25,5 @@ Este repositório contém material suplementar para a unidade curricular Sistema
 [Solução de EDO homogênea pelo método dos coeficientes a determinar - Raízes complexas conjugadas](https://github.com/lacerdamj/Sistemas-Lineares/blob/f432a6bfa442ae600c0ca91ea6b546c625cf94bb/ExercicioresolvidoEDO.ipynb)
 
 [Solução de EDO com entrada forçada - Método 1](https://github.com/lacerdamj/Sistemas-Lineares/blob/faa767594777fccba96c361d9a28496dc81bd786/EDOcomentrada.ipynb)
+
+[Simulação de EDO com entrada](https://github.com/lacerdamj/Sistemas-Lineares/blob/aa20b3784d2d7e7b24fefadc66b4f894476a7251/SimulacaoEDO.ipynb)
