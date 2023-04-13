@@ -27,3 +27,5 @@ Este repositório contém material suplementar para a unidade curricular Sistema
 [Solução de EDO com entrada forçada - Método 1](https://github.com/lacerdamj/Sistemas-Lineares/blob/faa767594777fccba96c361d9a28496dc81bd786/EDOcomentrada.ipynb)
 
 [Simulação de EDO com entrada](https://github.com/lacerdamj/Sistemas-Lineares/blob/aa20b3784d2d7e7b24fefadc66b4f894476a7251/SimulacaoEDO.ipynb)
+
+[Convolução](https://github.com/lacerdamj/Signals-Systems/blob/68d9f2ce2fd79325b6cbfe709eca88f26cc27fe1/Signals_systems_convolution.ipynb)
