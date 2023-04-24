@@ -29,5 +29,3 @@ Este repositório contém material suplementar para a unidade curricular Sistema
 [Simulação de EDO com entrada](https://github.com/lacerdamj/Sistemas-Lineares/blob/aa20b3784d2d7e7b24fefadc66b4f894476a7251/SimulacaoEDO.ipynb)
 
 [Convolução](https://github.com/lacerdamj/Signals-Systems/blob/68d9f2ce2fd79325b6cbfe709eca88f26cc27fe1/Signals_systems_convolution.ipynb)
-
-[Função de transferência e resposta ao degrau](https://github.com/lacerdamj/Sistemas-Lineares/blob/eb232fc9eeb86b447d031af7fa46cfc7cdd20912/transferfunction.ipynb)
