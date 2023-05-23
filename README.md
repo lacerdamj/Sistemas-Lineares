@@ -34,3 +34,5 @@ Este repositório contém material suplementar para a unidade curricular Sistema
 
 [Simplificação de diagrama de blocos](https://github.com/lacerdamj/Sistemas-Lineares/blob/2d0f029eee51235819e0fdd5c70b4f62d965edad/diagramadeblocos.ipynb)
 
+[Série de Fourier - ilustração](https://github.com/lacerdamj/Sistemas-Lineares/blob/21d7ce302d8e519652fbaea69efc2f552e86165e/SeriedeFourier.ipynb)
+
