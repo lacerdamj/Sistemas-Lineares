@@ -36,5 +36,5 @@ Este repositório contém material suplementar para a unidade curricular Sistema
 
 [Série de Fourier - ilustração](https://github.com/lacerdamj/Sistemas-Lineares/blob/21d7ce302d8e519652fbaea69efc2f552e86165e/SeriedeFourier.ipynb)
 
-[Transformada de Fourier](https://github.com/lacerdamj/Sistemas-Lineares/blob/1bedea77784453f0fc2c4eaee5e048e3bba9c5de/TransformadadeFourier.ipynb)
+[Transformada de Fourier - Exemplo](https://github.com/lacerdamj/Sistemas-Lineares/blob/1bedea77784453f0fc2c4eaee5e048e3bba9c5de/TransformadadeFourier.ipynb)
 
