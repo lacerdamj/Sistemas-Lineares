@@ -38,3 +38,5 @@ Este repositório contém material suplementar para a unidade curricular Sistema
 
 [Transformada de Fourier - Exemplo](https://github.com/lacerdamj/Sistemas-Lineares/blob/1bedea77784453f0fc2c4eaee5e048e3bba9c5de/TransformadadeFourier.ipynb)
 
+[Decomposição em frações parciais](https://github.com/lacerdamj/Sistemas-Lineares/blob/fd8b05c6416c75fb092a2f354706bf8bb77f4384/Fracoesparciais.ipynb)
+
